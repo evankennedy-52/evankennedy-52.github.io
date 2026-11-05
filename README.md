@@ -20,7 +20,7 @@ An analytical exploration of how input variability and sustainable growing metho
 A project focused on helping small farm managers leverage basic machine learning techniques to generate actionable, data-driven insights.
 
 ### [RUL Prediction as an Optimization Problem](https://github.com/evankennedy-52/Portfolio/tree/main/[2026]%20RUL%20Prediction%20as%20an%20Optimization%20Problem%20)
-A collaborative project formalizing Remaining Useful Life (RUL) prediction as an optimization problem through mathematical definitions and analytical solutions.
+A collaborative project formalizing Remaining Useful Life (RUL) prediction as an optimization problem through mathematical definitions and analytical solutions. My role was the mathematical definition of the problem, advisory on model choices / design, & creation of the resulting paper.
 
 ## 💻 Technical Skills
 
