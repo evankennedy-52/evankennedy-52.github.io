@@ -27,6 +27,7 @@ A collaborative project formalizing Remaining Useful Life (RUL) prediction as an
 **Programming Languages**
 - *Proficient*: Python, R, C, C#, Java
 - *Familiar*: Rust, HTML, VBA
+- 
 **Tools & Libraries**
 - *Tools*: Git, Docker, Linux, SQL, Jupyter Notebooks, AWS
 - *Libraries*: Pandas, NumPy, Scikit-learn, PyTorch
