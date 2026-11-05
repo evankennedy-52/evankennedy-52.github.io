@@ -1,6 +1,6 @@
 # Hi, I'm Evan Kennedy 😁👋
 
-I'm a Computer Science graduate and Applied Machine Learning master's student at the **University of Maryland, College Park**, interested in & studying machine learning, data science, and developing practical, data-driven solutions to real-world problems. My body of work, previewed below through 'Featured Projects' focuses primarily on predictive modeling, analytical problem-solving, and building end-to-end machine learning pipelines.
+I'm a **Computer Science** graduate and **Applied Machine Learning** master's student at the **University of Maryland, College Park**, interested in & studying machine learning, data science, and developing practical, data-driven solutions to real-world problems. My body of work, previewed below through 'Featured Projects' focuses primarily on predictive modeling, analytical problem-solving, and building end-to-end machine learning pipelines.
 
 ## 🎓 Education
 
