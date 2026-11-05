@@ -36,4 +36,4 @@ A collaborative project formalizing Remaining Useful Life (RUL) prediction as an
 
 - [LinkedIn](https://www.linkedin.com/in/evankennedy52)
 - [Email](mailto:evankennedy5237@gmail.com)
-- [Resume (PDF)]([/assets/Resume-evankennedy52.pdf](https://github.com/evankennedy-52/evankennedy-52.github.io/blob/main/assets/Resume%20-%20evankennedy52.pdf))
+- [Resume (PDF)](https://github.com/evankennedy-52/evankennedy-52.github.io/blob/main/assets/Resume%20-%20evankennedy52.pdf)
