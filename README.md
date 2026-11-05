@@ -10,11 +10,11 @@ I'm a **Computer Science** graduate and **Applied Machine Learning** master's st
 
 ## 🔬 Featured Projects
 
-### [Corn Yields and Sustainable Growing Methods](https://github.com/evankennedy-52/Portfolio/tree/main/[2024]%20Corn%20Yields%20with%20Growing%20Methods)
-An analytical exploration of how input variability and sustainable growing methods affect corn yields, leveraging interpretable linear models and examining the influence of non-numeric features.
-
 ### [Building a Management Aid for Small Farms](https://github.com/evankennedy-52/Portfolio/tree/main/[2025]%20Farm%20Yield%20Prediction%20Tool%20Tutorial)
 A project focused on helping small farm managers leverage basic data science & machine learning techniques to generate actionable, data-driven insights.
+
+### [Corn Yields and Sustainable Growing Methods](https://github.com/evankennedy-52/Portfolio/tree/main/[2024]%20Corn%20Yields%20with%20Growing%20Methods)
+An analytical exploration of how input variability and sustainable growing methods affect corn yields, leveraging interpretable linear models and examining the influence of non-numeric features.
 
 ### [Pipeline for a Regionally Curated Varroa Infestations Predictor](https://github.com/evankennedy-52/Varroa-Infestation-Prediction)
 An end-to-end, containerized machine learning pipeline for predicting Varroa mite infestations in honey bee colonies. Designed to isolate climatic regions during training to improve computational efficiency and model convergence.
