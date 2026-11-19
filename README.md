@@ -50,7 +50,7 @@ I lead and organize **food recovery efforts at UMD**, work that keeps me connect
 
 **Languages:** 
 
-*Proficient:* Python, R, C, C#, Java · 
+*Proficient:* Python, R, C, C#, Java
 
 *Familiar:* Rust, HTML, VBA
 
