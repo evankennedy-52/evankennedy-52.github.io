@@ -49,7 +49,9 @@ I lead and organize **food recovery efforts at UMD**, work that keeps me connect
 ## 💻 Technical Skills
 
 **Languages:** 
+
 *Proficient:* Python, R, C, C#, Java · 
+
 *Familiar:* Rust, HTML, VBA
 
 **ML & Data Science:** regression, gradient-boosted trees (XGBoost), cross-validation, hyperparameter tuning (Optuna), exploratory analysis, data cleaning & feature engineering
