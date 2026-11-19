@@ -1,6 +1,44 @@
 # Hi, I'm Evan Kennedy 😁👋
 
-I'm a **Computer Science** graduate and **Applied Machine Learning** master's student at the **University of Maryland, College Park**, interested in & studying machine learning, data science, and developing practical, data-driven solutions to real-world problems. My body of work, previewed below through 'Featured Projects' focuses primarily on predictive modeling, analytical problem-solving, and building end-to-end machine learning pipelines.
+**Data scientist and machine learning engineer focused on agriculture and food systems.**
+
+I'm a Computer Science graduate and Applied Machine Learning master's student at the **University of Maryland, College Park**. I build practical, data-driven tools that help the people who grow and move food, from small-farm yield planning to pest-risk prediction. Outside of code, I lead and organize **food recovery efforts on campus**, since the problems I work on are ones I care about beyond the classroom too.
+
+I'm looking for **data science / ML roles in agriculture, food systems, and sustainability**, and I'm also open to general data science and ML positions.
+
+## 🔬 Featured Projects
+
+### 🌽 [Building a Management Aid for Small Farms](https://github.com/evankennedy-52/Portfolio/tree/main/[2025]%20Farm%20Yield%20Prediction%20Tool%20Tutorial)
+*Python · pandas · scikit-learn · matplotlib / seaborn · Jupyter*
+
+Large farms can afford precision-agriculture consultants, and small ones usually can't. I built an end-to-end tutorial that lets a small-farm manager turn spreadsheet records into a **corn yield estimator** on an ordinary laptop.
+- Cleaned and merged multi-sheet field-trial data (~1,400 plots, University of Nebraska-Lincoln)
+- Built a regularized regression model, choosing complexity by cross-validation
+- **Result:** test RMSE ≈ 19 bu/acre and R² ≈ 0.74 using only information available before planting
+- Used model coefficients to confirm that nitrogen and irrigation are the clearest controllable yield drivers
+
+### 🌱 [Corn Yields and Sustainable Growing Methods](https://github.com/evankennedy-52/Portfolio/tree/main/[2024]%20Corn%20Yields%20with%20Growing%20Methods)
+*R · tidyverse · ggplot2 · linear regression · leave-one-year-out validation*
+
+Farmers often hesitate to adopt no-till, cover crops, and crop rotation because they fear yield losses. I analyzed 13 years of controlled Iowa State field data to test that worry.
+- Compared yields across tillage, cropping systems, and rotations, with rainfall and temperature as controls
+- Validated with leave-one-year-out cross-validation so models never saw the season they were predicting
+- **Finding:** the practices had little predictive power over yield, and no strong yield penalty showed up for sustainable methods. Weather and other conditions mattered far more
+- Wrote a plain-language memo for farmers, policymakers, and the public alongside the technical notebook
+
+### 🐝 [Pipeline for a Regionally Curated Varroa Infestation Predictor](https://github.com/evankennedy-52/Varroa-Infestation-Prediction)
+*Python · XGBoost · Optuna · Docker · ClearML*
+
+Varroa mites are among the biggest threats to honey bee colonies. I built a **containerized, configurable ML pipeline** that lets a beekeeper supply their own apiary data and get a model and infestation-risk predictions tailored to their region.
+- Three-stage pipeline (data processing → model fitting → prediction), run with a single Docker Compose command
+- Hyperparameter tuning with Optuna, with experiment tracking in ClearML
+- Designed so models train on geographically similar apiaries, improving computational efficiency and convergence
+- Reached ~95% prediction accuracy on the included Austrian example data
+- Written for non-technical users, with documented data formats and config files
+
+## 🥬 Beyond the Code
+
+I lead and organize **food recovery efforts at UMD**, work that keeps me connected to how food moves through a system and where it gets lost. Details are on my [resume](https://github.com/evankennedy-52/evankennedy-52.github.io/blob/main/assets/Resume%20-%20evankennedy52.pdf).
 
 ## 🎓 Education
 
@@ -8,26 +46,17 @@ I'm a **Computer Science** graduate and **Applied Machine Learning** master's st
 - M.S. in Applied Machine Learning (2025–2027)
 - B.S. in Computer Science (2022–2025)
 
-## 🔬 Featured Projects
-
-### [Building a Management Aid for Small Farms](https://github.com/evankennedy-52/Portfolio/tree/main/[2025]%20Farm%20Yield%20Prediction%20Tool%20Tutorial)
-A project focused on helping small farm managers leverage basic data science & machine learning techniques to generate actionable, data-driven insights.
-
-### [Corn Yields and Sustainable Growing Methods](https://github.com/evankennedy-52/Portfolio/tree/main/[2024]%20Corn%20Yields%20with%20Growing%20Methods)
-An analytical exploration of how input variability and sustainable growing methods affect corn yields, leveraging interpretable linear models and examining the influence of non-numeric features.
-
-### [Pipeline for a Regionally Curated Varroa Infestations Predictor](https://github.com/evankennedy-52/Varroa-Infestation-Prediction)
-An end-to-end, containerized machine learning pipeline for predicting Varroa mite infestations in honey bee colonies. Designed to isolate climatic regions during training to improve computational efficiency and model convergence.
-
 ## 💻 Technical Skills
 
-**Programming Languages**
-- *Proficient*: Python, R, C, C#, Java
-- *Familiar*: Rust, HTML, VBA
-  
-**Tools & Libraries**
-- *Tools*: Git, Docker, Linux, SQL, Jupyter Notebooks, AWS
-- *Libraries*: Pandas, NumPy, Scikit-learn, PyTorch
+**Languages:** 
+*Proficient:* Python, R, C, C#, Java · 
+*Familiar:* Rust, HTML, VBA
+
+**ML & Data Science:** regression, gradient-boosted trees (XGBoost), cross-validation, hyperparameter tuning (Optuna), exploratory analysis, data cleaning & feature engineering
+
+**Libraries:** pandas, NumPy, scikit-learn, PyTorch, tidyverse, ggplot2
+
+**Tools:** Git, Docker, Linux, SQL, Jupyter Notebooks, AWS, ClearML
 
 ## 📫 Connect With Me
 
